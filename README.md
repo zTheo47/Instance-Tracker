@@ -79,12 +79,10 @@ Essa abordagem mantém a interface independente da implementação interna dos m
 
 ## Instalação
 
-1. Baixe ou clone este repositório.
-2. Abra o Roblox Studio.
-3. Instale o arquivo do plugin através do sistema de gerenciamento de plugins do Studio.
-4. Ative o Instance Tracker.
-
-*As instruções podem variar de acordo com o formato do plugin disponibilizado.*
+1. Entre no link disponibilizado
+2. Clique em: "Abrir no studio"
+3. Adicione-o ao seu projeto
+Link: https://create.roblox.com/store/asset/70483263854890/Instance-Tracker
 
 ## Status do projeto
 
@@ -177,10 +175,10 @@ This approach keeps the interface independent from the internal implementation o
 
 ## Installation
 
-1. Download or clone this repository.
-2. Open Roblox Studio.
-3. Install the plugin file through Studio's plugin management system.
-4. Enable Instance Tracker.
+1. Open the provided link.
+2. Click **"Open in Studio"**.
+3. Add it to your project.
+**Link:** https://create.roblox.com/store/asset/70483263854890/Instance-Tracker
 
 *Installation instructions may vary depending on the distributed plugin format.*
 
